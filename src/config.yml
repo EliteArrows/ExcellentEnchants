@@ -14,7 +14,7 @@ General:
       - enchant_name
       - other_enchant
     Item:
-      Max_Custom_Enchants: 3
+      Max_Custom_Enchants: 100
       Axes_As_Swords: true
       Crossbows_As_Bows: true
       Elytra_As_Chestplate: true
@@ -26,21 +26,21 @@ General:
   Enchanting_Table:
     Enabled: true
     Enchantments:
-      Total_Maximum: 4
+      Total_Maximum: 10
       Custom_Generation_Chance: 75.0
       Custom_Minimum: 0
       Custom_Maximum: 2
   Villagers:
     Enabled: true
     Enchantments:
-      Total_Maximum: 4
+      Total_Maximum: 10
       Custom_Generation_Chance: 50.0
       Custom_Minimum: 0
       Custom_Maximum: 2
   Loot_Generation:
     Enabled: true
     Enchantments:
-      Total_Maximum: 4
+      Total_Maximum: 10
       Custom_Generation_Chance: 65.0
       Custom_Minimum: 0
       Custom_Maximum: 2
